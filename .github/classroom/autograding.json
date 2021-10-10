@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Compile",
+      "setup": "",
+      "run": "mvn clean compile",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
